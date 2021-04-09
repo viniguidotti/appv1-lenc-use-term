@@ -1,0 +1,12 @@
+.mat-card {
+    padding: 30px 300px 30px 300px;
+}
+
+.title-mat-card {
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.text-term{
+    font-size: large;
+}
