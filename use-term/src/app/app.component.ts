@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   templateUrl: 'app.component.html'
 })
 export class AppComponent {
-  title = 'use-term';
+  title = 'LENC - Termos de Uso';
 }
